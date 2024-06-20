@@ -8,4 +8,4 @@ require (
 	github.com/pion/webrtc/v3 v3.1.48
 )
 
-replace github.com/pion/mediadevices v0.0.0 => ../
+replace github.com/pion/mediadevices v2.0.0 => ../
