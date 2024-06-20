@@ -1,4 +1,4 @@
-module github.com/pion/mediadevices
+module github.com/pion/mediadevices/v2
 
 go 1.13
 
